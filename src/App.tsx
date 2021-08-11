@@ -1,12 +1,10 @@
-import React from 'react';
 
-
-function App() {
+function App () {
   return (
     <div>
-      <h1>Hello Fvaly</h1>
+      <h1>Hello F-Valy</h1>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
